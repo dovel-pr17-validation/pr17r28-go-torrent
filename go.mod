@@ -4,13 +4,13 @@ go 1.25.0
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.16.0
-	github.com/alexflint/go-arg v1.4.3
+	github.com/alexflint/go-arg v1.6.1
 	github.com/anacrolix/bargle v1.0.0
 	github.com/anacrolix/bargle/v2 v2.0.0
 	github.com/anacrolix/btree v0.1.1
 	github.com/anacrolix/chansync v0.8.0
-	github.com/anacrolix/dht/v2 v2.23.1-0.20260525063928-ec3a9bd99456
-	github.com/anacrolix/envpprof v1.4.0
+	github.com/anacrolix/dht/v2 v2.24.0
+	github.com/anacrolix/envpprof v1.5.1
 	github.com/anacrolix/generics v0.2.0
 	github.com/anacrolix/go-utp v0.0.0-20260908033909-9f1664acf866
 	github.com/anacrolix/gostdapp v0.2.1-0.20251125125325-fbac3f25c013
@@ -58,7 +58,7 @@ require (
 require (
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0 // indirect
 	github.com/alecthomas/atomic v0.1.0-alpha2 // indirect
-	github.com/alexflint/go-scalar v1.1.0 // indirect
+	github.com/alexflint/go-scalar v1.2.0 // indirect
 	github.com/anacrolix/backtrace v0.0.0-20221205112523-22a61db8f82e // indirect
 	github.com/anacrolix/go-libutp v1.5.2-0.20260908013213-836dd42cdde6 // indirect
 	github.com/anacrolix/lsan v0.1.0 // indirect
@@ -71,12 +71,14 @@ require (
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/ebitengine/purego v0.9.1 // indirect
+	github.com/felixge/fgprof v0.9.5 // indirect
 	github.com/frankban/quicktest v1.14.6 // indirect
 	github.com/go-llsqlite/crawshaw v0.5.6-0.20250312230104-194977a03421 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
+	github.com/google/pprof v0.0.0-20240227163752-401108e1b7e7 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.3 // indirect
 	github.com/honeycombio/honeycomb-opentelemetry-go v0.11.0 // indirect
